@@ -1,5 +1,10 @@
 # Azure ADLS Gen2 CLI Tool
 
+![ADLS](https://img.shields.io/badge/utility-Filesystem-brightgreen.svg)
+![ADLS](https://img.shields.io/badge/filesystem-ADLSGen2-brightgreen.svg)
+![Shell](https://img.shields.io/badge/language-Powershell-brightgreen.svg)
+![Shell](https://img.shields.io/badge/language-Bash-brightgreen.svg)
+
 A simple CLI tool to use Azure ADLS Gen2.
 
 ***Features:***
